@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    font-family: 'Delicious Handrawn', cursive;
+    background-color: #ebe1c5;
+    color:#595643;
+}
+
+h1 {
+    font-size: 36px;
+    color: #4e6b66;
+}
+
+button {
+    border-radius: 16px;
+    width: 90px;
+    height: 30px;
+    border: solid #ebcc6e;
+    font-size: 14px;
+    font-family:'Delicious Handrawn', cursive;
+}
+
+input {
+    border-radius: 22px;
+    width: 60px;
+    height: 30px;
+    border: solid #ebcc6e;
+    font-size: 14px;
+    text-align: center;
+}
+
+p {
+    font-size: 22px;
+}
+
+img {
+    width: 780px;
+    height: 360px;
+}
+
+#resultado {
+    color: #ed834e;
+}
